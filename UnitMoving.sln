@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitMoving", "UnitMoving.csproj", "{39CC81D6-A9E5-4165-86C4-05F8009ADC49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39CC81D6-A9E5-4165-86C4-05F8009ADC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CC81D6-A9E5-4165-86C4-05F8009ADC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CC81D6-A9E5-4165-86C4-05F8009ADC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CC81D6-A9E5-4165-86C4-05F8009ADC49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E79F27B4-853C-430F-A973-502FE61BEED2}
+	EndGlobalSection
+EndGlobal
